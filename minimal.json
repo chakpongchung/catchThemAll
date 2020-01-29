@@ -1,0 +1,69 @@
+[
+  {
+    "secondary": false
+  },
+  {
+    "secondary": {
+      "chance": 10,
+      "boosts": {
+        "spd": -1
+      }
+    }
+  },
+  {
+    "secondary": {
+      "chance": 30,
+      "volatileStatus": "flinch"
+    }
+  },
+  {
+    "secondary": {
+      "chance": 30
+    }
+  },
+  {
+    "secondary": {
+      "chance": 10,
+      "self": {
+        "boosts": {
+          "atk": 1,
+          "def": 1,
+          "spa": 1,
+          "spd": 1,
+          "spe": 1
+        }
+      }
+    }
+  },
+  {
+    "secondary": {
+      "chance": 10,
+      "status": "brn"
+    }
+  },
+  {
+    "secondary": {
+      "chance": 50,
+      "self": {
+        "boosts": {
+          "def": 2
+        }
+      }
+    }
+  },
+  {
+    "secondary": {
+      "chance": 100,
+      "self": {
+      }
+    }
+  },
+  {
+    "secondary": {
+      "chance": 50,
+      "boosts": {
+        "accuracy": -1
+      }
+    }
+  }
+]
